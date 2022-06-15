@@ -1,0 +1,123 @@
+{
+    "Metadata": {
+        "PosSystem": "HiPOS",
+        "Date": "2022-04-20T16:03:35.468+02:00",
+        "Version": "1",
+        "VersionSW": "esp.4.90.e",
+        "Store": "14647",
+        "IdWorkstation": "1",
+        "PosName": "P48AKHP4",
+        "CodCountry": 724,
+        "CodCountryISO": "ES",
+        "CountryStoreId": 44009500,
+        "TransactionCode": 10,
+        "ToBeReprocessed": "0",
+        "Currency": "EUR"
+    },
+    "HumanReadableData": {
+        "Document": {
+            "QRCode": "6701464701011044015364;724001;2022-04-20T16:03:35.093+02:00;58ddff1b72434af9bcf791fc4ddcd550;;",
+            "TotalAmount": 3598,
+            "TotalDiscount": 899,
+            "TotalOriginalPrice": 3598,
+            "MediaPaymentDiscount": 899,
+            "TotalWithMediaPaymentDiscount": 2699,
+            "ListDiscountSummary": [
+                {
+                    "PromotionName": "Media Payment",
+                    "TotalAmount": 899,
+                    "External": true
+                }
+            ],
+            "Store": {
+                "Name": "MAD-PRECIADOS, 13",
+                "Address": {
+                    "Address": "CALLE PRECIADOS, 13",
+                    "ZipCode": "28013",
+                    "City": "MADRID",
+                    "ProvinceISO": "M",
+                    "CountryISO": "ES"
+                }
+            },
+            "Source": "HIPOS",
+            "HumanReadableListDocumentLine": [
+                {
+                    "LineNumber": 1,
+                    "Date": "2022-04-20T16:02:20.935+02:00",
+                    "Quantity": 1,
+                    "UnitGross": 999,
+                    "TotalGross": 999,
+                    "UnitOriginalPrice": 999,
+                    "UnitDiscount": 0,
+                    "LineDiscount": 0,
+                    "Description": "CAMISETA",
+                    "TypedCode": "0394944325103",
+                    "Code": "0394944325103",
+                    "Model": 3949,
+                    "Quality": 443,
+                    "Color": 251,
+                    "Size": 3,
+                    "ListReturnedByUser": [],
+                    "IdCampaign": 1,
+                    "CampaignYear": 2022,
+                    "FamilyCode": 11,
+                    "FamilyCenter": "01",
+                    "SubFamilyCode": 111,
+                    "SubFamilyCenter": "01",
+                    "IdProductTypeDB2": 1,
+                    "IdProductType": 0,
+                    "IdPeriod": 1,
+                    "IdDepartment": 1,
+                    "SortingNumber": 0,
+                    "Sign": 1,
+                    "ArticleData": {
+                        "Description": "CAMISETA",
+                        "Model": "3949",
+                        "Quality": "443",
+                        "Size": "3",
+                        "Color": "251",
+                        "ImageURL": ""
+                    }
+                },
+                {
+                    "LineNumber": 2,
+                    "Date": "2022-04-20T16:02:35.998+02:00",
+                    "Quantity": 1,
+                    "UnitGross": 2599,
+                    "TotalGross": 2599,
+                    "UnitOriginalPrice": 2599,
+                    "UnitDiscount": 0,
+                    "LineDiscount": 0,
+                    "Description": "PANTALON",
+                    "TypedCode": "0003566625036",
+                    "Code": "0003566625036",
+                    "Model": 35,
+                    "Quality": 666,
+                    "Color": 250,
+                    "Size": 36,
+                    "ListReturnedByUser": [],
+                    "IdCampaign": 1,
+                    "CampaignYear": 2022,
+                    "FamilyCode": 1,
+                    "FamilyCenter": "01",
+                    "SubFamilyCode": 201,
+                    "SubFamilyCenter": "01",
+                    "IdProductTypeDB2": 1,
+                    "IdProductType": 0,
+                    "IdPeriod": 1,
+                    "IdDepartment": 1,
+                    "SortingNumber": 0,
+                    "Sign": 1,
+                    "ArticleData": {
+                        "Description": "PANTALON",
+                        "Model": "35",
+                        "Quality": "666",
+                        "Size": "36",
+                        "Color": "250",
+                        "ImageURL": ""
+                    }
+                }
+            ]
+        }
+    }
+}
