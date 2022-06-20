@@ -1,0 +1,129 @@
+{
+    "FromDate": "1970-01-01",
+    "ToDate": "2022-06-20",
+    "NumberOfElements": 3,
+    "Offset": 0,
+    "Limit": 10,
+    "User": {
+        "Currency": "EUR"
+    },
+    "ListReceiptSummary": [
+        {
+            "ReceiptUID": "29e757e0e8b0414f9a3c85e66c4e92d7",
+            "Date": "2022-05-26T20:15:27.75+02:00",
+            "Type": 2,
+            "NumberOfArticles": 3,
+            "Total": 1,
+            "TotalWithMediaPaymentDiscount": 1,
+            "CountryStoreId": 44009500,
+            "EcommerceId": "",
+            "NotificationChannel": "push",
+            "Store": {
+                "Name": "VAL-NUEVO CENTRO",
+                "Address": {
+                    "Address": "AVENIDA PIO XII, 2",
+                    "ZipCode": "46009",
+                    "City": "VALENCIA"
+                }
+            },
+            "ListItem": [
+                {
+                    "PartNumber": "03074211428",
+                    "Quantity": 1,
+                    "IsReturned": false,
+                    "ParentUuid": [],
+                    "ChildUuid": []
+                },
+                {
+                    "PartNumber": "02318831800",
+                    "Quantity": 1,
+                    "IsReturned": true,
+                    "ParentUuid": [],
+                    "ChildUuid": []
+                },
+                {
+                    "PartNumber": "02318831251",
+                    "Quantity": 1,
+                    "IsReturned": true,
+                    "ParentUuid": [],
+                    "ChildUuid": []
+                }
+            ],
+            "QRCode": "6700804901018092139486;724009;2022-05-26T20:15:27.750+02:00;29e757e0e8b0414f9a3c85e66c4e92d7;;",
+            "StoreId": 44009500,
+            "Currency": "EUR",
+            "Source": "HIPOS"
+        },
+        {
+            "ReceiptUID": "58ddff1b72434af9bcf791fc4ddcd550",
+            "Date": "2022-04-20T16:03:35.093+02:00",
+            "Type": 0,
+            "NumberOfArticles": 2,
+            "Total": 3598,
+            "TotalWithMediaPaymentDiscount": 2699,
+            "CountryStoreId": 44009500,
+            "EcommerceId": "",
+            "NotificationChannel": "push",
+            "Store": {
+                "Name": "MAD-PRECIADOS, 13",
+                "Address": {
+                    "Address": "PRECIADOS, 13",
+                    "ZipCode": "28013",
+                    "City": "MADRID"
+                }
+            },
+            "ListItem": [
+                {
+                    "PartNumber": "03949443251",
+                    "Quantity": 1,
+                    "IsReturned": false,
+                    "ParentUuid": [],
+                    "ChildUuid": []
+                },
+                {
+                    "PartNumber": "00035666250",
+                    "Quantity": 1,
+                    "IsReturned": false,
+                    "ParentUuid": [],
+                    "ChildUuid": []
+                }
+            ],
+            "QRCode": "6701464701011044015364;724001;2022-04-20T16:03:35.093+02:00;58ddff1b72434af9bcf791fc4ddcd550;;",
+            "StoreId": 44009500,
+            "Currency": "EUR",
+            "Source": "HIPOS"
+        },
+        {
+            "ReceiptUID": "b0c2c2a247d747518ef9e0fbd7b2f871",
+            "Date": "2022-02-07T14:32:16.169+01:00",
+            "Type": 1,
+            "NumberOfArticles": 1,
+            "Total": -1599,
+            "TotalWithMediaPaymentDiscount": -1599,
+            "CountryStoreId": 44009500,
+            "EcommerceId": "",
+            "NotificationChannel": "push",
+            "Store": {
+                "Name": "SEV-AIRESUR",
+                "Address": {
+                    "Address": "CARRETERA PARQUE CASTILLEJA CTRA CASTILLEJA - TOMARES, S/N",
+                    "ZipCode": "41950",
+                    "City": "CASTILLEJA DE LA CUESTA"
+                }
+            },
+            "ListItem": [
+                {
+                    "PartNumber": "05483388711",
+                    "Quantity": 1,
+                    "IsReturned": true,
+                    "ParentUuid": [],
+                    "ChildUuid": []
+                }
+            ],
+            "QRCode": "6700825901000999010902;724003;2022-02-07T14:32:16.169+01:00;b0c2c2a247d747518ef9e0fbd7b2f871;;",
+            "StoreId": 44009500,
+            "Currency": "EUR",
+            "Source": "HIPOS"
+        }
+    ]
+}
