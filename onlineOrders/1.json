@@ -15,17 +15,17 @@
     "isTailoring": false,
     "repay": false,
     "shipping": {
-        "shippingMethodId": 21305,
-        "name": "Recogida en tienda",
-        "kind": "pickup",
-        "identifier": 4,
+        "shippingMethodId": 21306,
+        "name": "Envío estándar a domicilio",
+        "kind": "delivery",
+        "identifier": 3,
         "shippingData": {
-            "physicalStoreId": "10749"
+            "addressId": "5010000000302070515"
         },
         "maxDeliveryDays": "10",
         "minDeliveryDays": null,
         "description": "",
-        "dbcode": "PickupInStore",
+        "dbcode": "Standard",
         "providerId": null
     },
     "billingAddressId": "5010000000302076489",
