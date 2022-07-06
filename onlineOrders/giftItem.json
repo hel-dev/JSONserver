@@ -30,19 +30,19 @@
    ],
    "isTailoring":false,
    "repay":false,
-   "shipping":{
-      "shippingMethodId":21305,
-      "name":"Recogida en tienda",
-      "kind":"pickup",
-      "identifier":4,
-      "shippingData":{
-         "physicalStoreId":"10749"
-      },
-      "maxDeliveryDays":"10",
-      "minDeliveryDays":null,
-      "description":"",
-      "dbcode":"PickupInStore",
-      "providerId":null
+   "shipping": {
+        "shippingMethodId": 21306,
+        "name": "Envío estándar a domicilio",
+        "kind": "delivery",
+        "identifier": 3,
+        "shippingData": {
+            "addressId": "5010000000302070515"
+        },
+        "maxDeliveryDays": "10",
+        "minDeliveryDays": null,
+        "description": "",
+        "dbcode": "Standard",
+        "providerId": null
    },
    "billingAddressId":"6400000000001991697",
    "payment":[
