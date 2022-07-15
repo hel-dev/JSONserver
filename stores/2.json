@@ -1,0 +1,37 @@
+{
+    "id": "10749",
+    "name": "BERSHKA (SOLO EMPLEADOS)",
+    "countryName": "España",
+    "countryCode": "ES",
+    "state": "BARCELONA",
+    "stateCode": "ESB  ",
+    "photo": "",
+    "sections": "1,2",
+    "area": 0.0,
+    "latitude": 41.69182,
+    "longitude": 2.7327,
+    "isPickupAllowed": true,
+    "receiveBooking": false,
+    "shippingOnlyForEmployees": true,
+    "addressLines": [
+        "TORDERA PALAFOLLS KM 0,6 ( BSK)"
+    ],
+    "city": "TORDERA",
+    "zipCode": "08490",
+    "phones": [],
+    "receiveStockQuery": true,
+    "restrictedStocksections": null,
+    "isBlocked": false,
+    "url": "https://www.bershka.com/es/store-locator/tordera/tordera-palafolls-km-0-s10749.html",
+    "idStoreType": 4,
+    "nameStoreType": "OTHER",
+    "district": null,
+    "personalizationId": "1522759380213-88891",
+    "rueiData": {
+        "StoreLangRUEI": "<!--itxStoreLang='es'-->",
+        "StoreTypeRUEI": "<!--itxStoreType='VENTA'-->",
+        "OperationTypeRUEI": "<!--itxOperationType='rest-service-impl'-->",
+        "OperationRUEI": "<!--itxOperation='physical-store-id'-->",
+        "StoreIdRUEI": "<!--itxStoreId='ES'-->"
+    }
+}
