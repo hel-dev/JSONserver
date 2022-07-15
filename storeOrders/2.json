@@ -1,0 +1,86 @@
+{
+    "Metadata": {
+        "PosSystem": "HiPOS",
+        "Date": "2022-07-12T21:40:30.677+02:00",
+        "Version": "1",
+        "VersionSW": "esp.4.118",
+        "Store": "12450",
+        "IdWorkstation": "8",
+        "PosName": "P48BBNB0",
+        "CodCountry": 724,
+        "CodCountryISO": "ES",
+        "CountryStoreId": 44009500,
+        "TransactionCode": 10,
+        "ToBeReprocessed": "0",
+        "Currency": "EUR"
+    },
+    "HumanReadableData": {
+        "Document": {
+            "QRCode": "6701245008009443101827;724001;2022-07-12T21:39:13.500+02:00;4daedeed70c74157b56dc6c1649062c7;;",
+            "TotalAmount": 799,
+            "TotalDiscount": 199,
+            "TotalOriginalPrice": 799,
+            "MediaPaymentDiscount": 199,
+            "TotalWithMediaPaymentDiscount": 600,
+            "ListDiscountSummary": [
+                {
+                    "PromotionName": "Media Payment",
+                    "TotalAmount": 199,
+                    "External": true
+                }
+            ],
+            "Store": {
+                "Name": "BCN-PUERTA ANGEL",
+                "Address": {
+                    "Address": "AVENIDA PORTAL DE L'ANGEL, 24",
+                    "ZipCode": "08002",
+                    "City": "BARCELONA",
+                    "ProvinceISO": "B",
+                    "CountryISO": "ES"
+                }
+            },
+            "Source": "HIPOS",
+            "HumanReadableListDocumentLine": [
+                {
+                    "LineNumber": 3,
+                    "Date": "2022-07-12T21:38:25.483+02:00",
+                    "Quantity": 1,
+                    "UnitGross": 799,
+                    "TotalGross": 799,
+                    "UnitOriginalPrice": 799,
+                    "UnitDiscount": 0,
+                    "LineDiscount": 0,
+                    "Description": "SAMARRETA",
+                    "TypedCode": "0236898780002",
+                    "Code": "0236898780002",
+                    "Model": 2368,
+                    "Quality": 987,
+                    "Color": 800,
+                    "Size": 2,
+                    "ListReturnedByUser": [],
+                    "IdCampaign": 2,
+                    "CampaignYear": 2022,
+                    "FamilyCode": 11,
+                    "FamilyCenter": "01",
+                    "SubFamilyCode": 111,
+                    "SubFamilyCenter": "01",
+                    "IdProductTypeDB2": 1,
+                    "IdProductType": 0,
+                    "IdPeriod": 1,
+                    "IdDepartment": 1,
+                    "SortingNumber": 0,
+                    "Sign": 1,
+                    "ArticleData": {
+                        "Description": "Camiseta manga volante",
+                        "Model": "2368",
+                        "Quality": "443",
+                        "Size": "S",
+                        "Color": "Negro",
+                        "ImageURL": "/2022/I/0/1/p/2368/443/800/2368443800",
+                        "Timestamp": "1654782448504"
+                    }
+                }
+            ]
+        }
+    }
+}
